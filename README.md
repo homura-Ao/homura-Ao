@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @homura-Ao
+- 👋 Hi, I’m @Lord_Aconite
 - 👀 I’m interested in Coding, as much launguage as i can learn ...
 - 🌱 I’m currently learning JS/JAVA/PYTHON/C
 - 💞️ I’m looking to collaborate on nothing yet
